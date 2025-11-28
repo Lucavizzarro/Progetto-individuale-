@@ -4,3 +4,6 @@ La ricerca di un’auto richiede spesso di visitare più concessionari, consulta
 Utenti finali: persone che vogliono acquistare un’auto nuova o usata, anche senza competenze tecniche.                                                                  Concessionari: rivenditori che desiderano aumentare la visibilità delle proprie offerte e gestire i contatti in modo centralizzato.
 Autoscout24,         Subito.it (sezione motori),   
 “Trova la tua prossima auto in un clic – veloce, semplice, trasparente.”
+
+https://docs.google.com/spreadsheets/d/1HGXbASFB0-oo71osw0SkNVPvSP4kilXNJj0PYVYtVeY/edit?usp=sharing
+https://lovable.dev/projects/aead35cb-55cf-4fa3-9236-8757fcbc99a1
