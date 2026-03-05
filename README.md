@@ -13,8 +13,13 @@ Autoscout24,         Subito.it (sezione motori)
 
 <img width="601" height="258" alt="image" src="https://github.com/user-attachments/assets/8fdc9605-5fc3-4397-8204-85b9d286aa4b" />
 
-
+## Tagline
 “Trova la tua prossima auto in un clic – veloce, semplice, trasparente.”
 
+
+
+## User story
 https://docs.google.com/spreadsheets/d/1HGXbASFB0-oo71osw0SkNVPvSP4kilXNJj0PYVYtVeY/edit?usp=sharing
-https://lovable.dev/projects/aead35cb-55cf-4fa3-9236-8757fcbc99a1
+
+## Implementazione
+https://car-dream-finder-47.lovable.app
