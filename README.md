@@ -27,7 +27,7 @@ https://docs.google.com/spreadsheets/d/1HGXbASFB0-oo71osw0SkNVPvSP4kilXNJj0PYVYt
 https://yuml.me/94dbb5b0.svg
 
 ## Implementazione
-https://car-dream-finder-47.lovable.app
+[https://car-dream-finder-47.lovable.app](https://lovable.dev/projects/aead35cb-55cf-4fa3-9236-8757fcbc99a1)
 
 ## Elevator pitch
 https://docs.google.com/document/d/1-s-IPgawQMQUNwphGLbVcry5eyLjopDjwlhO2ZZIfFA/edit?tab=t.0#heading=h.h16crb4ilbgv
