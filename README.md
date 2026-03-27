@@ -61,7 +61,8 @@ Le informazioni sulle auto devono essere vere e aggiornate.
 I concessionari devono indicare garanzie e condizioni di vendita corrette.
 
 ## User story
-https://docs.google.com/spreadsheets/d/1HGXbASFB0-oo71osw0SkNVPvSP4kilXNJj0PYVYtVeY/edit?usp=sharing
+<img width="1112" height="299" alt="image" src="https://github.com/user-attachments/assets/718d8498-225b-4af4-aa78-ad59379818d3" />
+
 
 ## Use case
 https://yuml.me/94dbb5b0.svg
