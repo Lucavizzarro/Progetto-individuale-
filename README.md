@@ -72,7 +72,100 @@ I concessionari devono indicare garanzie e condizioni di vendita corrette.
 [https://car-dream-finder-47.lovable.app](https://lovable.dev/projects/aead35cb-55cf-4fa3-9236-8757fcbc99a1)
 
 ## Elevator pitch
-https://docs.google.com/document/d/1-s-IPgawQMQUNwphGLbVcry5eyLjopDjwlhO2ZZIfFA/edit?tab=t.0#heading=h.h16crb4ilbgv
+1. Opening Slide
+Titolo:
+AutoLink – Connetti il mondo dell’auto
+Sottotitolo:
+La piattaforma che collega concessionari e utenti in cerca di auto nuove e usate, in tempo reale.
+Contatti:
+info@autolink.it
+
+2. Il Problema
+Trovare l’auto giusta può essere complicato:
+I concessionari hanno inventari aggiornati solo in sede.
+Gli utenti devono visitare più siti o saloni per confrontare prezzi e modelli.
+Manca un canale diretto di comunicazione tra venditori e potenziali acquirenti.
+
+3. La Soluzione
+AutoLink centralizza tutto in un’unica app:
+Catalogo aggiornato in tempo reale dei veicoli disponibili.
+Funzione di confronto tra modelli, prezzi e caratteristiche.
+Chat diretta con i concessionari.
+Possibilità di prenotare test drive o richiedere preventivi personalizzati.
+
+5. Market Size
+Mercato di riferimento: Settore automotive digitale in crescita costante.
+Valore del mercato europeo delle auto online: oltre 450+ miliardi di euro, destinato a superare i 60 miliardi di euro entro il 2033
+Crescita media stimata dei prossimi anni: circa +3% – +4% all’anno
+
+6. Business Model
+Commissione su vendite concluse tramite piattaforma (B2B2C).
+Abbonamenti premium per concessionari (visibilità avanzata e lead qualificati).
+Pubblicità mirata per brand automotive e servizi correlati (assicurazioni, finanziamenti, ecc.).
+
+7. Proprietary Technology / Expertise
+Tecnologia:
+Database centralizzato con aggiornamento in tempo reale.
+Algoritmi di matching auto-utente.
+Notifiche push e gestione dinamica delle offerte.
+Competenze:
+Esperienza nel settore automotive e digital marketing.
+Team con background in sviluppo web & mobile 
+
+8. Competitor
+Autoscout24
+Subito.it
+Automobile.it
+
+9. Perché AutoLink è migliore?
+Aggiornamento in tempo reale dai concessionari.
+Interazione diretta con i venditori.
+Sistema di notifiche personalizzate su offerte e ribassi.
+Esperienza utente più fluida, con app web e mobile integrate.
+
+10. Customer Acquisition Channels
+Campagne digital (Google Ads, Meta Ads).
+Partnership con concessionarie e gruppi automotive locali.
+Programmi referral per utenti registrati.
+SEO & Content marketing con focus sul mercato auto.
+
+11. Founding Team
+Luca Vizzarro, co-founder – Esperto di digital transformation nel settore automotive.
+
+12. Money & Milestones
+MVP completato e testato con 5 concessionarie pilota.
++3.000 utenti registrati nella fase beta.
+Previsione di fatturato: 250.000 € entro il primo anno di lancio.
+Obiettivo: espansione su scala nazionale entro 24 mesi.
+
+
+Investment Ask
+AutoLink è alla ricerca di un investimento Seed di 400.000 €
+📌 Obiettivo del round
+Scalare la piattaforma a livello nazionale
+Rafforzare tecnologia e acquisizione utenti
+Raggiungere il break-even entro 24 mesi
+
+📊 Use of Funds
+🔧 Tecnologia – 40% (160.000 €)
+Sviluppo e ottimizzazione app web & mobile
+Miglioramento algoritmi di matching
+Scalabilità infrastruttura cloud e sicurezza
+Nuove feature (advanced analytics per concessionari)
+
+📢 Marketing & Growth – 35% (140.000 €)
+Campagne digital (Google Ads, Meta Ads)
+Partnership con concessionarie e gruppi locali
+
+👨‍💻 Team – 20% (80.000 €)
+Sviluppo prodotto continuo
+Supporto tecnico e customer success
+Marketing & sales B2B
+
+⚖️ Legale & Operativo – 5% (20.000 €)
+Compliance GDPR e contratti B2B
+Costi amministrativi e consulenze
+
 
 ## WBS
 https://docs.google.com/document/d/1QiqKYtCqrGRShYPliQayBJnymkeku5WW_a8nz0jb3u8/edit?tab=t.0
