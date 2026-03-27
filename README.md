@@ -65,7 +65,8 @@ I concessionari devono indicare garanzie e condizioni di vendita corrette.
 
 
 ## Use case
-https://yuml.me/94dbb5b0.svg
+<img width="502" height="891" alt="image" src="https://github.com/user-attachments/assets/785a9e45-150f-4227-b389-645324c41c4c" />
+
 
 ## Implementazione
 [https://car-dream-finder-47.lovable.app](https://lovable.dev/projects/aead35cb-55cf-4fa3-9236-8757fcbc99a1)
