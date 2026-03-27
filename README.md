@@ -18,7 +18,47 @@ Autoscout24 - Subito.it (sezione motori)
 <img width="601" height="258" alt="image" src="https://github.com/user-attachments/assets/8fdc9605-5fc3-4397-8204-85b9d286aa4b" />
 
 ## Analisi requisiti
-https://docs.google.com/document/d/12PA6GwVUOJVPxnaIQPWh5pEtpcanW0OUsla95k_CTDg/edit?tab=t.0#heading=h.ti4ogp5ph0ib
+Analisi dei Requisiti – Progetto “AutoLink”
+Introduzione
+L’analisi dei requisiti serve per capire cosa deve fare un progetto, come deve funzionare e quali regole deve rispettare.
+ I requisiti sono:
+Funzionali: cosa deve fare l’app.
+Non funzionali: come deve funzionare (velocità, sicurezza, facilità d’uso).
+Di dominio: regole specifiche del settore in cui lavora l’app.
+
+Descrizione del progetto
+AutoLink è un’app web e mobile che collega concessionari e utenti che cercano un’auto nuova o usata.
+Con AutoLink si può:
+vedere il catalogo aggiornato delle auto;
+confrontare modelli e prezzi;
+prenotare test drive;
+chiedere preventivi personalizzati;
+salvare le auto preferite;
+ricevere notifiche su offerte e ribassi;
+chattare con i venditori.
+
+Requisiti funzionali
+Gli utenti possono registrarsi e fare il login.
+L’app mostra il catalogo delle auto disponibili.
+Si possono filtrare le auto per marca, prezzo o chilometraggio.
+È possibile prenotare un test drive.
+Gli utenti possono chiedere un preventivo.
+È possibile salvare le auto preferite.
+L’app invia notifiche su nuove offerte.
+Si può chattare con i venditori.
+I concessionari possono aggiungere o modificare i loro annunci.
+
+Requisiti non funzionali
+L’app deve essere facile da usare.
+Deve caricarsi velocemente.
+Deve essere sicura e proteggere i dati degli utenti.
+Deve funzionare su smartphone e computer.
+Deve essere affidabile e funzionare quasi sempre.
+
+Requisiti di dominio
+Deve rispettare le leggi sulla privacy (GDPR).
+Le informazioni sulle auto devono essere vere e aggiornate.
+I concessionari devono indicare garanzie e condizioni di vendita corrette.
 
 ## User story
 https://docs.google.com/spreadsheets/d/1HGXbASFB0-oo71osw0SkNVPvSP4kilXNJj0PYVYtVeY/edit?usp=sharing
