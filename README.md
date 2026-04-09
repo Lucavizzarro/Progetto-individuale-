@@ -168,7 +168,38 @@ Costi amministrativi e consulenze
 
 
 ## WBS
-https://docs.google.com/document/d/1QiqKYtCqrGRShYPliQayBJnymkeku5WW_a8nz0jb3u8/edit?tab=t.0
+WBS – Work Breakdown Structure 
+1. Avvio del progetto
+1.1 Definizione obiettivi
+ 1.2 Studio di fattibilità
+ 1.3 Pianificazione iniziale
+2. Analisi dei requisiti
+2.1 Raccolta requisiti utenti e concessionari
+ 2.2 Definizione funzionalità principali
+ 2.3 Redazione documento dei requisiti
+3. Progettazione del sistema
+3.1 Progettazione architettura software
+ 3.2 Progettazione database
+ 3.3 Progettazione interfaccia 
+4. Sviluppo
+4.1 Sviluppo backend
+ 4.2 Sviluppo frontend
+ 4.3 Implementazione funzionalità principali (catalogo auto, preventivi, test drive, chat)
+5. Testing
+5.1 Test unitari
+ 5.2 Test di integrazione
+ 5.3 Correzione bug
+6. Deploy
+6.1 Configurazione server
+ 6.2 Pubblicazione applicazione
+
+
+7. Documentazione
+7.1 Manuale utente
+ 7.2 Documentazione tecnica
+ 7.3 Presentazione del progetto
+
+
 
 ## Cronoprogramma 
 <img width="1689" height="562" alt="image" src="https://github.com/user-attachments/assets/51bc098c-d68b-4d14-aa98-5d2ac4b3b695" />
